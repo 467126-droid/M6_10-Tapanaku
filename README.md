@@ -2,4 +2,4 @@
 ชื่อ ฐปนกุล สระทองแซว <br>
 ขอตอนรับเข้าสู่ Portfolio <br>
 [ประวัติของฉัน](page01.md) <br>
-[ค้นหา]{www.google.co.th}
+[ค้นหา](www.google.co.th)
